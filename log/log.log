@@ -1,0 +1,2 @@
+time="2020-08-25T14:30:00+08:00" level=info DataSize=49 HostName=LAPTOP-SEBIM5II IP="::1" Method=GET Path="/api/v1/users?pagesize=5&pagenum=1" SpendTime="123 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
+5:43+08:00" level=info DataSize=67 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" Status=200 UserAgent=PostmanRuntime/7.26.3

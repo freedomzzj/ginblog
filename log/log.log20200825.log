@@ -1,0 +1,9 @@
+time="2020-08-25 11:09:36" level=info DataSize=202 HostName=LAPTOP-SEBIM5II IP="::1" Method=GET Path="/api/v1/users?pagesize=5&pagenum=1" SpendTime="172 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:06:17" level=error DataSize=0 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="42 ms" Status=500 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:10:06" level=error DataSize=0 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="38 ms" Status=500 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:11:27" level=error DataSize=0 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="41 ms" Status=500 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:12:15" level=info DataSize=66 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="1 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:12:24" level=info DataSize=53 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="2 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:15:38" level=info DataSize=58 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="2 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:15:43" level=info DataSize=67 HostName=LAPTOP-SEBIM5II IP="::1" Method=POST Path=/api/v1/user/add SpendTime="0 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
+time="2020-08-25 14:30:00" level=info DataSize=49 HostName=LAPTOP-SEBIM5II IP="::1" Method=GET Path="/api/v1/users?pagesize=5&pagenum=1" SpendTime="123 ms" Status=200 UserAgent=PostmanRuntime/7.26.3
